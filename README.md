@@ -1,9 +1,9 @@
-# Huddle
+# Huddle React Project
 
 ## Tech Stack
-Html
-CSS
-JavaScript
+Html<br/>
+CSS <br/>
+JavaScript <br/>
 React with Styled Components
 
 ## Usage
